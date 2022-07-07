@@ -1,6 +1,6 @@
 function updateTimer() {
 
-    const stopDate  = Date.parse("July 9, 2022 11:30:00");
+    const stopDate  = Date.parse("July 13, 2022 11:30:00");
     const currentDate     = new Date();
     const diff    = stopDate - currentDate;
     /* Calcs  */
